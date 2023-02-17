@@ -8,6 +8,10 @@ NodeJS: [v10.24.1](https://nodejs.org/docs/latest-v10.x/api/)
 
 Npm: v6.14.12
 
+Após clonar o repositorio é obrigatório rodar dentro da pasta do projeto o comando `npm install` para instalar todas as dependencias do projeto.
+
+# Os comandos abaixo só funcionaram caso você tenha o Angular CLI instalado Globalmente
+
 ## Servidor de Desenvolvimento
 
 Execute `ng serve`. Link de acesso: http://localhost:4200/
